@@ -1,0 +1,12 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated outputs
+*.qsf
+output/
+
+# Editor
+.vscode/
+.idea/
+*.swp
